@@ -1,0 +1,4 @@
+digitaladatadivisionen
+======================
+
+Open Source Galenskap
